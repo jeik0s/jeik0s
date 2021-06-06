@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jakub
-- 👀 I’m interested in sooooome thigs
+- 👀 I’m interested in sooooome things
 - 🌱 I’m currently learning flutter / js 
 - 💞️ I’m looking to collaborate with mobile-apps developers
 - 📫 How to reach me? pigeon mail
