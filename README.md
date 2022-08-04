@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Jakub
-- 👀 I’m interested in sooooome things
-- 🌱 I’m currently learning flutter / js 
-- 💞️ I’m looking to collaborate with mobile-apps developers
-- 📫 How to reach me? Join our discord server https://discord.gg/G5XEK45pux 
+- 🌱 I’m currently learning flutter / js / react
+- 💞️ I’m looking to collaborate with mobile-apps / react developers
+- 📫 How to reach me? Join our discord server https://discord.gg/G5XEK45pux
 
 <!---
 jeik0s/jeik0s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
